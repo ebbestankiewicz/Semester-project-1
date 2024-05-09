@@ -395,11 +395,13 @@ footer img {
 .exhibition img{
     width: 315px;
     height: 315px;
+    object-fit: cover;
 }
 
 .additional-img img{
     width: 315px;
     height: 250px;
+    object-fit: cover;
 }
 
 .event, 
@@ -787,6 +789,7 @@ input[type="submit"]{
 .image-content img{
     width: 315px;
     height: 315px;
+    object-fit: cover;
 }
 
 .phonenumber{
