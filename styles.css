@@ -657,6 +657,7 @@ footer img {
 .contribution-image img{
     width: 315px;
     height: auto;
+    object-fit: cover;
 }
 
 .explore-image{
