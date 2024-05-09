@@ -853,6 +853,7 @@ input[type="submit"]{
 .doc-container p {
     font-size: 16px;
     line-height: 1.6;
+    margin-top: 10px;
 }
 
 @media (min-width: 699px){
